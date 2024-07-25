@@ -12,3 +12,6 @@ Author - Ankit
 - Design Patterns
 - File IO
 - other misc. concepts
+[](https://github.com/user-attachments/files/16118466/Core.Java.pdf)
+
+
