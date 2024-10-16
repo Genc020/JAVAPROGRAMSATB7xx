@@ -1,6 +1,6 @@
 package Java04082024.accessModifiers.criminal;
 
-import aug.Java04082024.accessModifiers.police.Cop;
+import Java04082024.accessModifiers.police.Cop;
 
 public class Thief {
     public static void main(String[] args) {
