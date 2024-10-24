@@ -1,0 +1,8 @@
+package Java17081024;
+
+public enum PAGES {
+    LOGINPAGE,
+    DASHBOARDPAGE,
+    SUPPORTPAGE,
+    CHATBOTPAGE
+}
