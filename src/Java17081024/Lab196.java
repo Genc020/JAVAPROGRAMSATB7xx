@@ -1,6 +1,6 @@
 package Java17081024;
 
-public class Lab196 {
+public class  Lab196 {
     public static void main(String[] args) {
         // Primitive to Wrapper class
         int a = 10;
